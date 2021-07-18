@@ -2,5 +2,9 @@
     {
         "package": "crossvalidation",
         "url": "https://github.com/Techtonique/crossvalidation"
+    },
+    {
+        "package": "esgtoolkit",
+        "url": "https://github.com/Techtonique/esgtoolkit"
     }
 ]
