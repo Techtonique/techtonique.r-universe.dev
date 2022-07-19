@@ -14,5 +14,9 @@
     {
         "package": "ycinterextra",
         "url": "https://github.com/Techtonique/ycinterextra"
+    },
+    {
+        "package": "bcn",
+        "url": "https://github.com/Techtonique/bcn"
     }
 ]
