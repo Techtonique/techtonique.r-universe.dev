@@ -18,5 +18,9 @@
     {
         "package": "bcn",
         "url": "https://github.com/Techtonique/bcn"
+    },
+    {
+        "package": "learningmachine",
+        "url": "https://github.com/Techtonique/learningmachine"
     }
 ]
