@@ -18,5 +18,13 @@
     {
         "package": "learningmachine",
         "url": "https://github.com/Techtonique/learningmachine"
+    },
+    {
+        "package": "nnetsauce",
+        "url": "https://github.com/Techtonique/nnetsauce_r"
+    },
+    {
+        "package": "mlsauce",
+        "url": "https://github.com/Techtonique/mlsauce_r"
     }
 ]
