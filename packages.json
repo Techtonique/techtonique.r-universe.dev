@@ -26,5 +26,9 @@
     {
         "package": "mlsauce",
         "url": "https://github.com/Techtonique/mlsauce_r"
+    },
+    {
+        "package": "forecastingapi",
+        "url": "https://github.com/Techtonique/forecastingAPI_r"
     }
 ]
