@@ -34,5 +34,9 @@
     {
         "package": "simulatetimeseries",
         "url": "https://github.com/thierrymoudiki/simulatetimeseries"
+    },
+    {
+        "package": "bayesianrvfl",
+        "url": "https://github.com/thierrymoudiki/bayesianrvfl"
     }
 ]
