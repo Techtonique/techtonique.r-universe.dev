@@ -38,5 +38,9 @@
     {
         "package": "bayesianrvfl",
         "url": "https://github.com/thierrymoudiki/bayesianrvfl"
+    },
+    {
+        "package": "misc",
+        "url": "https://github.com/thierrymoudiki/misc"
     }
 ]
