@@ -42,5 +42,9 @@
     {
         "package": "misc",
         "url": "https://github.com/thierrymoudiki/misc"
+    },
+    {
+        "package": "tisthemachinelearner"
+        "url": "https://github.com/Techtonique/tisthemachinelearner_r"
     }
 ]
