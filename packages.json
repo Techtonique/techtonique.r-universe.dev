@@ -1,1 +1,74 @@
-
+[
+    {
+        "package": "crossvalidation",
+        "url": "https://github.com/Techtonique/crossvalidation"
+    },
+    {
+        "package": "esgtoolkit",
+        "url": "https://github.com/Techtonique/esgtoolkit"
+    },
+    {
+        "package": "ahead",
+        "url": "https://github.com/Techtonique/ahead"
+    },
+    {
+        "package": "bcn",
+        "url": "https://github.com/Techtonique/bcn"
+    },
+    {
+        "package": "learningmachine",
+        "url": "https://github.com/Techtonique/learningmachine"
+    },
+    {
+        "package": "nnetsauce",
+        "url": "https://github.com/Techtonique/nnetsauce_r"
+    },
+    {
+        "package": "mlsauce",
+        "url": "https://github.com/Techtonique/mlsauce_r"
+    },
+    {
+        "package": "forecastingapi",
+        "url": "https://github.com/Techtonique/forecastingAPI_r"
+    },
+    {
+        "package": "simulatetimeseries",
+        "url": "https://github.com/thierrymoudiki/simulatetimeseries"
+    },
+    {
+        "package": "bayesianrvfl",
+        "url": "https://github.com/thierrymoudiki/bayesianrvfl"
+    },
+    {
+        "package": "misc",
+        "url": "https://github.com/thierrymoudiki/misc"
+    },
+    {
+        "package": "rvfl",
+        "url": "https://github.com/thierrymoudiki/rvfl"
+    },
+    {
+        "package": "tisthemachinelearner", 
+        "url": "https://github.com/Techtonique/tisthemachinelearner_r"
+    },
+    {
+        "package": "matern32",
+        "url": "https://github.com/thierrymoudiki/matern32"
+    },
+    {
+        "package": "ftsatoo",
+        "url": "https://github.com/thierrymoudiki/ftsatoo"
+    },
+    {
+        "package": "healthsimulation",
+        "url": "https://github.com/Techtonique/healthsimulation"
+    },
+    {
+        "package": "stochasticscenarios",
+        "url": "https://github.com/Techtonique/stochasticscenarios"
+    },
+    {
+        "package": "unifiedml",
+        "url": "https://github.com/Techtonique/unifiedml"
+    }
+]
