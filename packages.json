@@ -70,5 +70,13 @@
     {
         "package": "unifiedml",
         "url": "https://github.com/Techtonique/unifiedml"
+    },
+    {
+        "package": "mlS3",
+        "url": "https://github.com/Techtonique/mlS3"
+    },
+    {
+        "package": "rvflnet",
+        "url": "https://github.com/thierrymoudiki/rvflnet"
     }
 ]
