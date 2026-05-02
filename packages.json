@@ -78,5 +78,9 @@
     {
         "package": "rvflnet",
         "url": "https://github.com/thierrymoudiki/rvflnet"
+    },
+    {
+        "package": "survivalisttoo",
+        "url": "https://github.com/Techtonique/survivalisttoo"
     }
 ]
