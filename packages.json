@@ -82,5 +82,9 @@
     {
         "package": "survivalisttoo",
         "url": "https://github.com/Techtonique/survivalisttoo"
+    },
+    {
+        "package": "garchf",
+        "url": "https://github.com/thierrymoudiki/garchf"
     }
 ]
