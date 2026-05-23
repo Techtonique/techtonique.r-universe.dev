@@ -86,5 +86,9 @@
     {
         "package": "garchf",
         "url": "https://github.com/thierrymoudiki/garchf"
+    },
+    {
+        "package": "metalearnedridge2f"
+        "url": "https://github.com/Techtonique/metalearnedridge2f"
     }
 ]
