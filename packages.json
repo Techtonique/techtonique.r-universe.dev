@@ -90,5 +90,9 @@
     {
         "package": "metalearnedridge2f",
         "url": "https://github.com/Techtonique/metalearnedridge2f"
+    },
+    {
+        "package": "GPopt",
+        "url": "https://github.com/Techtonique/GPopt_r"
     }
 ]
