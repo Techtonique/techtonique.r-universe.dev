@@ -94,5 +94,9 @@
     {
         "package": "GPopt",
         "url": "https://github.com/Techtonique/GPopt_r"
+    },
+    {
+        "package": "empiricaloptions",
+        "url": "https://github.com/thierrymoudiki/empiricaloptions"
     }
 ]
