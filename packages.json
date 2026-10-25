@@ -98,5 +98,9 @@
     {
         "package": "empiricaloptions",
         "url": "https://github.com/thierrymoudiki/empiricaloptions"
+    },
+    {
+        "package": "caretS3",
+        "url": "https://github.com/thierrymoudiki/caretS3"
     }
 ]
